@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center ;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(247, 101, 101, 0.74);
+    width: 30em;
+    height: 38em;
+    margin: 0 auto;
+    border-radius: 7%;
+    padding: 1em;
+}
+
+textarea {
+    margin-top: -15px;
+}
+
+input {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 3px;
+}
