@@ -30,3 +30,8 @@ label {
     display: block;
     margin-bottom: 3px;
 }
+
+.menor {
+    background-color: red;
+    border: 2px solid black;
+}
